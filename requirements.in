@@ -5,3 +5,4 @@ uvicorn
 python-multipart
 requests
 numpy
+opencv-python
